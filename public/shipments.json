@@ -1,0 +1,30 @@
+[
+    {
+    "id": "d3ff0c68892",
+    "name": "Amazon",
+    "url": "Amazon.com",
+    "email": "contact@amazon.com",
+    "boxes": "6.8,7.9,3"
+    },
+    {
+   "id": "g2afafg0f72",
+   "name": "Tesla",
+   "url": "Tesla.com",
+   "email": "contact@tesla.com",
+   "boxes": "6.2,5.9,4,6.9,4.4,1.7,9.5"
+   },
+   {
+  "id": "h55f23go72f",
+  "name": "Airbnb",
+  "url": "Airbnb.com",
+  "email": "contact@airbnb.com",
+  "boxes": "1.7,9.5,4,6.9,4.4"
+  },
+  {
+ "id": "g92mf0s003",
+ "name": "Twitter",
+ "url": "twitter.com",
+ "email": "contact@twitter.com",
+ "boxes": "2,10,4,6.9,4.4"
+ }
+]
